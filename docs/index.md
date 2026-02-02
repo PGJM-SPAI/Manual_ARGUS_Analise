@@ -18,20 +18,20 @@
 <br>
 <svg xmlns="http://www.w3.org/2000/svg" height="20px" width="26px" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2290d6" d="M3.9 54.9C10.5 40.9 24.5 32 40 32l432 0c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9 320 448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6l0-79.1L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z"/></svg> : Oculta/exibe filtro. <strong>As opções de filtro são (Figura 3): </strong> <br>
 
-<img src="../img/OpçõesFiltro2.png" width="100%">
+<img src="img/OpçõesFiltro2.png" width="100%">
 *Figura 3 - Opções de Filtro.* <br>
 
 
 <ul style="text-align: justify;">
-<ol><img src="../img/CircleBanco.png" height="30px" width="30px"></svg> :  pode-se filtrar ou retirar da consulta as contas bancárias desejadas, ou 
+<ol><img src="img/CircleBanco.png" height="30px" width="30px"></svg> :  pode-se filtrar ou retirar da consulta as contas bancárias desejadas, ou 
 seja, excluir contas que contêm valores em duplicidade, por exemplo.</ol>
-<ol><img src="../img/moeda.png"  height="30px" width="30px"></svg> :  pode-se selecionar apenas valores a crédito, a débito ou outros, por 
+<ol><img src="img/moeda.png"  height="30px" width="30px"></svg> :  pode-se selecionar apenas valores a crédito, a débito ou outros, por 
 exemplo, o que for mais conveniente para a consulta pretendida.</ol>
-<ol><img src="../img/canetinha (2).png"  height="30px" width="30px"></svg> : pode-se filtrar ou retirar da consulta os tipos de lançamentos não desejados 
+<ol><img src="img/canetinha (2).png"  height="30px" width="30px"></svg> : pode-se filtrar ou retirar da consulta os tipos de lançamentos não desejados 
 em determinada busca, como “devolução de cheques” ou “aplicação”, por exemplo.</ol>
-<ol><img src="../img/doubleUser.png"  height="30px" width="30px"> : pode-se filtrar ou retirar da consulta informações referentes a um ou mais 
+<ol><img src="img/doubleUser.png"  height="30px" width="30px"> : pode-se filtrar ou retirar da consulta informações referentes a um ou mais 
 envolvidos, inclusive examinar apenas os valores cujos depositantes ou beneficiários não foram identificados, denominados “Não informado”.</ol>
-<ol><img src="../img/jornal.png" height="30px" width="30px"> : pode-se filtrar ou retirar da consulta as descrições tencionadas para 
+<ol><img src="img/jornal.png" height="30px" width="30px"> : pode-se filtrar ou retirar da consulta as descrições tencionadas para 
 determinada apuração, como “pagamentos salariais”; “proventos” e/ou “remuneração”.</ol>
 </ul>
 
